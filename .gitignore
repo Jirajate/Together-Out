@@ -63,6 +63,7 @@ ExportedObj/
 *.cginc.meta
 *.pdf.meta
 *.unity.meta
+*.playable.meta
 
 # Unity3D generated file on crash reports
 sysinfo.txt
